@@ -1,0 +1,11 @@
+{
+  "name": "lets_build_gpt_from_scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jupyter": "jupyter lab"
+  },
+  "author": "",
+  "license": "ISC"
+}
