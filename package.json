@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "jupyter": "jupyter lab"
+    "jupyter": "jupyter lab",
+    "last": "open 'https://youtu.be/kCc8FmEb1nY?si=rUHSMnO72R0uVaox&t=1430'"
   },
   "author": "",
   "license": "ISC"
